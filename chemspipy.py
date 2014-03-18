@@ -20,7 +20,7 @@ __version__ = '1.0'
 __license__ = 'MIT'
 
 
-TOKEN = 'YOU NEED TO INSERT YOUR OWN TOKEN HERE'
+TOKEN = '9d5ed6c6-9cba-448f-9e98-a1634c888bdc' #Token registreret til MWL RSC ID, og budnet til google login.
 
 
 class Compound(object):
